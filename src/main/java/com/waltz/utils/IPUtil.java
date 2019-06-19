@@ -94,6 +94,6 @@ public class IPUtil {
     }
 
     public static void main(String[] args) {
-        System.out.println(new IPUtil().getAreaByIp("101.2.4.8"));
+        System.out.println(new IPUtil().getAreaByIp("101.20.44.28"));
     }
 }
